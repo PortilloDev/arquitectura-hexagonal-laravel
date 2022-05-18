@@ -1,0 +1,5 @@
+1 - Modificar carpeta composer.json y creamos un nuevo espacio de nombre "Core"
+2 - Carga dinamica de rutas y migraciones para los distintos modulos
+	- Acceder al RouteServiceProvider y agregar una nueva función para cargar las routas
+	- Acceder al AppServiceProvider y agregar otra nueva función para cargar las migraciones
+3 - ValueObject: clase abstracta para representar strings
